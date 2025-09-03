@@ -1,0 +1,13 @@
+Flask-JWT-Extended
+Flask-Mail
+Redis
+Flask-Bcrypt
+Flask
+python-dotenv
+Flask-CORS
+Flask-Migrate
+Flask-SQLAlchemy
+psycopg2-binary
+flask-validators
+imagekitio
+marshmallow
